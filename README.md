@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/eduardgabr94564" target="blank"><img src="https://img.shields.io/twitter/follow/eduardgabr94564?logo=twitter&style=for-the-badge" alt="eduardgabr94564" /></a> </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Eduardts)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on [NepotSmart](https://github.com/Eduardts/On_NEPOTSMART)
 
