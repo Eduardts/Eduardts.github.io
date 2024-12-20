@@ -68,6 +68,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardts" alt="eduardts" /></p>
 
+  <tr>
+    <td colspan="2" align="center">
+      <details open><summary>Compact display</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" alt=""></img></details>
+      <details><summary>Detailed display</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.svg" alt=""></img></details>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+
 I made different types of backends and frontends for python and javascript. I am trying to show here the frameworks and tools i know for these two languages. The present portofolio is the "main" one
 =======
 [My github repositories](https://github.com/Eduardts?tab=repositories&q=&type=&language=&sort=name)
