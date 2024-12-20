@@ -71,14 +71,8 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <details open><summary>Compact display</summary><img src="https://github.com/eduardts/metrics/blob/examples/metrics.plugin.achievements.compact.svg" alt=""></img></details>
-      <details><summary>Detailed display</summary><img src="https://github.com/eduardts/metrics/blob/examples/metrics.plugin.achievements.svg" alt=""></img></details>
-      <img width="900" height="1" alt="">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github.com/eduardts/metrics/blob/examples/metrics.plugin.leetcode.svg" alt=""></img>
+      <details open><summary>Compact display</summary><img src="https://github.com/eduardts/metrics/something.svg" alt=""></img></details>
+      <details><summary>Detailed display</summary><img src="https://github.com/eduardts/metrics/something.svg" alt=""></img></details>
       <img width="900" height="1" alt="">
     </td>
   </tr>
